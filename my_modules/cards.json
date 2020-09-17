@@ -1,0 +1,91 @@
+{
+	"identity": [{
+		"name": "Innocent",
+		"description": "10 POINTS : Éliminez tous les Traitres.",
+		"imgUrl": ""
+		},
+		{
+		"name": "Traitre",
+		"description": "10 POINTS : Éliminez tous les non-traitres.",
+		"imgUrl": ""
+		},
+		{
+		"name": "Juliette",
+		"description": "10 POINTS : Soyez le dernier en vie avec Romeo.",
+		"imgUrl": ""
+		},
+		{
+		"name": "Romeo",
+		"description": "10 POINTS : Soyez le dernier en vie avec Juliette.",
+		"imgUrl": ""
+		},
+		{
+		"name": "Le Conseiller",
+		"description": "5 POINTS : Éliminez le joueur à votre droite en étant en vie.\n5 POINTS : Éliminez le joueur à votre gauche en étant en vie.",
+		"imgUrl": ""
+		},
+		{
+		"name": "Le Valet",
+		"description": "10 POINTS : Éliminez le conseiller.",
+		"imgUrl": ""
+		},
+		{
+		"name": "Danielo",
+		"description": "Vous commencez avec 15 POINTS.\nPerdez 2 points pour chaque tour survécue.",
+		"imgUrl": ""
+	}],
+	"action":[{
+		"name": "Mentir",
+		"description": "Condition : Jouez-là lorsqu’on vous interroge.\nEffet : Vous pouvez mentir à la question.",
+		"imgUrl": "",
+		"nbCopies": 2
+	},
+	{
+		"name": "Se Cacher",
+		"description": "Condition : Jouez-là quand vous allez vous faire découvrir.\nEffet : Annulez l’effet de la carte découvrir.",
+		"imgUrl": "",
+		"nbCopies": 2
+	},
+	{
+		"name": "Découvrir",
+		"description": "Condition : Jouez-là quand vous le souhaitez.\nEffet : Regardez discrètement l’identité d’un joueur.",
+		"imgUrl": "",
+		"nbCopies": 3
+	},
+	{
+		"name": "Emporter son identité",
+		"description": "Condition : Jouez-là à votre mort.\nEffet : Mourir ne révéle pas votre identité.",
+		"imgUrl": "",
+		"nbCopies": 2
+	},
+	{
+		"name": "Êtes-vous le conseiller ?",
+		"description": "Condition : Jouez-là quand vous voulez.\nEffet : Donnez cette carte discrètement à un joueur. question à un joueur. Il est obligé de répondre la vérité par “oui” ou “non” à la question “êtes-vous le conseiller ?”.",
+		"imgUrl": "",
+		"nbCopies": 2
+	},
+	{
+		"name": "Êtes-vous un innocent ?",
+		"description": "Condition : Jouez-là quand vous voulez.\nEffet : Donnez cette carte discrètetment à un joueur. question  à un joueur. Il est obligé de répondre la vérité par “oui” ou “non” à la question “êtes-vous un innocent ?”.",
+		"imgUrl": "",
+		"nbCopies": 3
+	},
+	{
+		"name": "Êtes-vous un traitre ?",
+		"description": "Condition : Jouez-là quand vous voulez.\nEffet : Donnez cette carte discrètement à un joueur. question à un joueur. Il est obligé de répondre la vérité par “oui” ou “non” à la question “êtes-vous un traitre ?”.",
+		"imgUrl": "",
+		"nbCopies": 3
+	},
+	{
+		"name": "Dépouiller les cadavres",
+		"description": "Effet : Gagnez 1 POINTS pour chaque tour survécue.",
+		"imgUrl": "",
+		"nbCopies": 2
+	},
+	{
+		"name": "Trésor Caché",
+		"description": "Effet : Gagnez 3 POINTS.",
+		"imgUrl": "",
+		"nbCopies": 2
+	}]
+}
